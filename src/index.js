@@ -18,3 +18,7 @@ mainImage.src = webpack_logo
 
 // Подключение модулей JS.
 const hello = require('./js/hello')
+
+import {number} from './js/number'
+
+number()
