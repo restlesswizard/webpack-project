@@ -3,7 +3,7 @@ WEBPACK PROJECT PATTERN
 ## INFO
 
 - **Author: restlesswizard;**
-- **Last update: 10 October 2022;**
+- **Last update: 10 November 2022;**
 - **Webpack version: 5.74.0;**
 - **Purpose: Learn how to use Webpack and make working pattern for my future projects.**
 
@@ -39,5 +39,6 @@ WEBPACK PROJECT PATTERN
 	- **css/** - folder with common .css files
 	- **fonts/** - folder with custom fonts
 	- **js/** - folder with JS modules
+	- **sass/** - folder with scss files (this pattern supports SASS)
 
 
